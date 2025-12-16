@@ -1,5 +1,5 @@
-# SajidUllah-resume.github.io
-# Hi 👋, I'm Sajid Ullah
+
+# Hi, I'm Sajid Ullah
 
 ### GIS Expert | Remote Sensing | Spatial Data Analysis
 
@@ -9,17 +9,6 @@ I use **GIS, Remote Sensing, and Python** to turn spatial data into actionable i
 
 Detail-oriented **GIS Expert** with strong experience in spatial data analysis, mapping, remote sensing, and development of GIS-based solutions. Skilled in integrating GIS with databases, conducting field and GPS surveys, and supporting multidisciplinary teams in government and development projects.
 
----
-
-## 📫 How to Reach Me
-
-* **Name:** Sajid Ullah
-* **Role:** GIS Expert
-* **Phone:** +92 345 9092242
-* **Email:** [sajidullah27@gmail.com](mailto:sajidullah27@gmail.com)
-* **Location:** Shabqadar, Charsadda, KPK, Pakistan
-🔗 LinkedIn: [LinkedIn Profile]  
-- 💻 GitHub: [GitHub Portfolio]
 ---
 
 ## 🧠 Technical Skills
@@ -149,24 +138,6 @@ Below are representative project categories. Repositories can be added or linked
 
 ---
 
-## 📦 Repository Structure
-
-```text
-gis-projects/
-│── crop-area-estimation/
-│── land-suitability-analysis/
-│── groundwater-potential-mapping/
-│── adp-mapping/
-│── agriculture-asset-digitization/
-│── field-surveys-gps/
-│── scripts/
-│   ├── arcpy-tools/
-│   ├── gee-scripts/
-│   └── python-gis-utils/
-```
-
----
-
 ## 🛠️ Tools & Technologies
 
 * **GIS Software:** ArcGIS, ArcMap, QGIS
@@ -176,37 +147,17 @@ gis-projects/
 * **Field Tools:** GPS, Mobile GIS, Drones
 
 ---
+## 📫 How to Reach Me
 
-## 🤝 Let’s Collaborate
-
-* Open an **issue** for suggestions or improvements
-* Fork repositories and submit **pull requests**
-* Reach out via email for **research, GIS, or development collaborations**
-
+* **Name:** Sajid Ullah
+* **Role:** GIS Expert
+* **Phone:** +92 345 9092242
+* **Email:** [sajidullah27@gmail.com](mailto:sajidullah27@gmail.com)
+* **Location:** Shabqadar, Charsadda, KPK, Pakistan
+🔗 LinkedIn: [LinkedIn Profile]  
+- 💻 GitHub: [GitHub Portfolio]
 ---
 
-## 📄 License & Usage
-
-Unless otherwise stated, project repositories are shared for **educational and professional reference purposes**.
-
----
-
----
-
-## 📊 GitHub Profile Highlights
-
-* 🔭 Currently working on **GIS & Remote Sensing projects**
-* 🌱 Learning advanced **Python automation & Google Earth Engine workflows**
-* 👯 Open to collaboration on **GIS, Agriculture, Disaster Management, and Spatial Analysis projects**
-* 💬 Ask me about **ArcGIS, QGIS, GEE, GPS Surveys, Image Classification**
-
---- 
-
-## ⭐ How to Use This Profile
-
-* Browse pinned repositories for **featured GIS projects**
-* Check individual project READMEs for **methodology, data sources, and outputs**
-* Fork repositories to reuse **scripts, workflows, and GIS utilities**
 
 ---
 
